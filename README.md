@@ -1,7 +1,5 @@
 # First_JavaScript_Project
 
-In this project I learned some JS basics and did the following tasks:
-
 1- create a file and name it 'app.js' and type "Hello World" 5 times 
 2- run the file from your CLI by using this command node app.js
 3- Declare a variable z and assign the number 7.25 to it.
@@ -32,15 +30,11 @@ In this project I learned some JS basics and did the following tasks:
 28- Declare a variable that contains an empty object with a clear name
 29- Give the object 5 properties [name, age, study, zipcode, address], don't forget to make [address] contains more than one attribute 
 30- log each property out separately, using a loop (for, while or do/while)
-31- Declare a variable that holds an array of 3 objects, 
-where each object describes a book and has properties for the title (string), author (string), and alreadyRead (boolean indicating if you read it yet).
+31- Declare a variable that holds an array of 3 objects, where each object describes a book and has properties for the title (string), author (string), and alreadyRead (boolean indicating if you read it yet).
 32- Loop through the array of books.
 33- For each book, log the book title and book author like so: "Game Of Thrones by J.R.R. Martin".
---------------------------------------------------------
-34- Create a conditional statement to change the log depending on whether you read it yet or not. 
-If you read it, log a string like You already read "The Hobbit" right after the log of the book details
+34- Create a conditional statement to change the log depending on whether you read it yet or not. If you read it, log a string like You already read "The Hobbit" right after the log of the book details
 35- If you haven't read it log a string like You still need to read "The Lord of the Rings"
-------------------------------------------------------
 36- create an array with name [listOfPlayers] and add to it three players from the start of the array and two from the end
 37- remove 2 players
 38- add from the start alos two players 
